@@ -41,7 +41,7 @@
     text-decoration: none;
 }
 
-.tecnic-degradated-gray {
+.tecnic-background-footer-section {
     background: rgb(71, 71, 71);
-    background: linear-gradient(0deg, rgba(71, 71, 71, 1) 0%, rgba(64, 64, 63, 1) 35%, rgba(43, 43, 43, 1) 100%);
+    background: url('../assets//img//particles-right-bottom.png') repeat, linear-gradient(0deg, rgba(71, 71, 71, 1) 0%, rgba(64, 64, 63, 1) 35%, rgba(43, 43, 43, 1) 100%);
 }
